@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div id="header"align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5YWZkMDgyNTA4NzA5NDRhNjc3YjM2ODE2NWY0ODBmYzIxOWEyZiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif" width="100"/>
-</div>
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/>
-  <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5YWZkMDgyNTA4NzA5NDRhNjc3YjM2ODE2NWY0ODBmYzIxOWEyZiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif" width="100"/>
+  
+  <div id="badges">
+    <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
+    <a href=""><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
+    <a href=""><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
+  </div>
 </div>
