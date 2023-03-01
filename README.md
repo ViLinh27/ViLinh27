@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--- tutorial from : https://www.sitepoint.com/github-profile-readme/c
+-- tutorial from :https://www.sitepoint.com/github-profile-readme/
 -->
 
 <div id="header"align="center">
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 -:telescope: I’m studying Computer Science and software engineering. I hope to work in building web applications using my technical and visual skills.
 - :seedling: Exploring Software Engineering and UX.
 - :zap: In my free time, I make web applications and illustrate.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](#your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](#your-linkedin-url)
