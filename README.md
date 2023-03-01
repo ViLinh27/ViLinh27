@@ -23,4 +23,6 @@ Here are some ideas to get you started:
     <a href=""><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
     <a href=""><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
   </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=ViLinh27&style=flat-square&color=blue" alt="view count"/>
 </div>
