@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header"align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5YWZkMDgyNTA4NzA5NDRhNjc3YjM2ODE2NWY0ODBmYzIxOWEyZiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif" width="100"/>
+  <img src="https://pbs.twimg.com/profile_images/1532190267687809026/KaNphoxL_400x400.jpg" alt="gif" width="100"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/vilinhnguyen27/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
