@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/vilinhnguyen27/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
     <a href="https://www.instagram.com/linh_is_tibia/"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
     <a href="https://twitter.com/vilinh27"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
+    <a href="https://codepen.io/vilinh27"><img src="https://img.shields.io/badge/Codepen-yellow?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen"/></a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=ViLinh27&style=flat-square&color=blue" alt="view count"/>
