@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI5YWZkMDgyNTA4NzA5NDRhNjc3YjM2ODE2NWY0ODBmYzIxOWEyZiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif" width="100"/>
   
   <div id="badges">
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
+    <a href="https://www.linkedin.com/in/vilinhnguyen27/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
+    <a href="https://twitter.com/vilinh27"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=ViLinh27&style=flat-square&color=blue" alt="view count"/>
@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 -:telescope: I’m studying Computer Science and software engineering. I hope to work in building web applications using my technical and visual skills.
 - :seedling: Exploring Software Engineering and UX.
 - :zap: In my free time, I make web applications and illustrate.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](#your-linkedin-url)
-- :art: See more of my projects: [!My portfolio website](vilinh27.github.io)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vilinhnguyen27/)
+- :art: See more of my projects: [My portfolio website](vilinh27.github.io)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
