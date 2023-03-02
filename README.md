@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
   <img src="https://komarev.com/ghpvc/?username=ViLinh27&style=flat-square&color=blue" alt="view count"/>
   <h1>
-    hey there
+    Hello!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - :seedling: Exploring Software Engineering and UX.
 - :zap: In my free time, I make web applications and illustrate.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](#your-linkedin-url)
-
+- :art: See more of my projects: [!My portfolio website](vilinh27.github.io)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
