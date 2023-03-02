@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" object-fit="contain"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" object-fit="contain"/>
 </div>
 
 ---
