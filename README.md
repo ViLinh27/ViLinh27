@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 :wave: I am a frontend web developer from Canada, based in the United States.
 
--:telescope: I’m studying Computer Science and software engineering. I hope to work in building web applications using my technical and visual skills.
+- :telescope: I’m studying Computer Science and software engineering. I hope to work in building web applications using my technical and visual skills.
 - :seedling: Exploring Software Engineering and UX.
 - :zap: In my free time, I make web applications and illustrate.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vilinhnguyen27/)
