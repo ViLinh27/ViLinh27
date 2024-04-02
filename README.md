@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 -- tutorial from :https://www.sitepoint.com/github-profile-readme/
 -->
 
-[![top banner ViLinh27](dogLOGObanner.svg)]
+![top banner ViLinh27](dogLOGObanner.svg)
 
 <div id="header"align="center">
-  <img src="https://pbs.twimg.com/profile_images/1532190267687809026/KaNphoxL_400x400.jpg" alt="gif" width="100"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/vilinhnguyen27/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
