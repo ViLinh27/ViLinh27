@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -- tutorial from :https://www.sitepoint.com/github-profile-readme/
 -->
 
+[![top banner ViLinh27](dogLOGObanner.svg)]
+
 <div id="header"align="center">
   <img src="https://pbs.twimg.com/profile_images/1532190267687809026/KaNphoxL_400x400.jpg" alt="gif" width="100"/>
   
