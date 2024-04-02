@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <a href="https://codepen.io/vilinh27"><img src="https://img.shields.io/badge/Codepen-yellow?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen"/></a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=ViLinh27&style=flat-square&color=blue" alt="view count"/>
+  <img src="https://komarev.com/ghpvc/?username=ViLinh27&style=flat-square&color=blueviolet&style=flat-square" alt="view count"/>
   <h1>
     Hello!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
