@@ -68,3 +68,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViLinh27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@vilinh2778616/30-nites-of-code)  
+  ![@vilinh2778616 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vilinh2778616)
+
