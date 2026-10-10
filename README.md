@@ -74,3 +74,10 @@ Here are some ideas to get you started:
   [Check out my progress!](https://www.codedex.io/@vilinh2778616/30-nites-of-code)  
   ![@vilinh2778616 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vilinh2778616)
 
+### Some favorite repos:
+| Repo                                                                         | Description                                                                                               |
+| -- | -- |
+| [Art Market Prep Web App](https://github.com/ViLinh27/artmarketprep)         | This is a streamlit app where I try to figure out more of the library's data analysis and display functionalities | 
+| [Millicent Lost Her Eye](https://github.com/ViLinh27/Millicent-Lost-Her-Eye) | This is my first attempt at adding more python features to a ren'py game like inventory classes           |
+| [Dad's DVD Database](https://github.com/ViLinh27/dads_dvd_database) | This is another streamlit app that was my first foray into streamlit's data analysis and display features          |
+| [Linh's Art Room](https://github.com/ViLinh27/linhs-artroom) | This art portfolio helped me review ReactJS hooks and experiment with dynamically generated content                       |
